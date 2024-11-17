@@ -5,4 +5,8 @@ This current study proposed a customized restaurant guide with streamlined resta
 
 Dataset link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
-![image](https://github.com/user-attachments/assets/0ec1c5e8-7f58-4462-be51-962d29f784f9)
+Proposed Architecture:
+![image](https://github.com/user-attachments/assets/52368b02-ef6e-430b-95cb-ee283fe87a0c)
+
+Model Working:
+![image](https://github.com/user-attachments/assets/ede76494-73cd-40aa-a6ec-bda2d2d7cadb)
